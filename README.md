@@ -9,15 +9,10 @@ My only wish as a child was not to become a developer. <br /> But coincidentally
 
 Here are some of the key services I provide:
 
-- **Frontend & Backend Development**: Building responsive interfaces with React, Vue, and Next.js, and robust backends using Django, Node.js, and Go.
-- **Smart Contract Development**: Creating secure and efficient smart contracts tailored to your specific needs.
-- **Decentralized Application Development**: Building user-friendly dApps with seamless blockchain integration.
-- **Token Development & Launch**: Helping you design, develop, and deploy your custom tokens for various use cases.
-- **NFT Solutions**: Providing end-to-end NFT development services, from minting to marketplace integration.
-- **Crosschain & Onchain Solutions**: Implementing solutions that enable smooth interactions across multiple blockchains and on-chain ecosystems.
-- **Web3 Integration**: Integrating Web3 functionalities into your existing or new applications.
-- **Trading Bot Development**: Building AI-driven, efficient, and customizable trading bots for cryptocurrency and other markets.
-- **AI & Automation**: Leveraging artificial intelligence and automation to optimize processes and drive innovation.
+- **Full-Stack Development**: Responsive frontends (React, Vue, Next.js) + Scalable backends (Django, Node.js, Go)
+- **Blockchain & Smart Contract Solutions**: Secure smart contracts, token development, dApps, and cross-chain interoperability
+- **NFT & Web3 Integration**: NFT development, marketplace integration, and Web3 capabilities for decentralized apps
+- **AI, Automation & Trading Bots**: AI-driven solutions for process optimization and customizable trading bots
 
 ---
 
