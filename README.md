@@ -3,8 +3,6 @@
 ## About Me
 My only wish as a child was not to become a developer. <br /> But coincidentally, I fell into the exciting trap called coding and have enjoyed my life in this lovely trap for almost 8 years. <br /> I love coding as much as I love my wife—and sometimes even more! ❤️Shh! Be quiet. I've never said that in front of my wife.
 
----
-
 ## 🌟 My Main Offers
 
 Here are some of the key services I provide:
@@ -13,8 +11,6 @@ Here are some of the key services I provide:
 - **Blockchain & Smart Contract Solutions**: Secure smart contracts, token development, dApps, and cross-chain interoperability
 - **NFT & Web3 Integration**: NFT development, marketplace integration, and Web3 capabilities for decentralized apps
 - **AI, Automation & Trading Bots**: AI-driven solutions for process optimization and customizable trading bots
-
----
 
 ## ⚡ Technical Skills & Tools
 
